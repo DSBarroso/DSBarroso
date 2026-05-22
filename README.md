@@ -1,7 +1,15 @@
 # Olá, me chamo Daniele ! 
 ## Bem vindo ao meu perfil GitHub 👋
 
-![snake gif](https://github.com/DSBarroso/DSBarroso/blob/output/github-contribution-grid-snake.svg)
+### 🐍 Contribuições recentes
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DSBarroso/DSBarroso/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DSBarroso/DSBarroso/output/github-contribution-grid-snake-dark.svg">
+    <img alt="GitHub Contributions Snake Animation" src="https://raw.githubusercontent.com/DSBarroso/DSBarroso/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
 <!--
 **DSBarroso/DSBarroso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
